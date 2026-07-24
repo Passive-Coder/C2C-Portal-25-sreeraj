@@ -59,7 +59,7 @@ export default function TopBar({ onUpcomingEdition }: TopBarProps = {}) {
     // { href: "#speakers", label: "Speakers", hasDropdown: false },
     { href: "#sponsors", label: "Previous Sponsors", hasDropdown: false },
     { href: "#faqs", label: "FAQs", hasDropdown: false },
-    { href: "#__upcoming", label: "Explore the Latest Edition", hasDropdown: false },
+    { href: "#__upcoming", label: "Event Details", hasDropdown: false },
   ];
 
   return (

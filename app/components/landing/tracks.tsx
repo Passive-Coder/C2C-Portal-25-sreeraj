@@ -53,8 +53,8 @@ export const LANDING_TRACKS = [
 export const TracksComingSoon = () => (
   <div className="w-full max-w-[1080px] mx-auto mt-6 sm:mt-8 px-4 sm:px-6">
     <p className="text-center text-[#efefef]/80 font-['DM_Sans'] text-base sm:text-lg -mt-2 mb-8 sm:mb-10 max-w-2xl mx-auto">
-      Five tracks are locked in. We&apos;re just keeping the themes under wraps a little
-      longer, with the reveal dropping closer to September 4 to 6.
+      Five tracks are locked in.
+      To be revealed soon.
     </p>
     <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5 gap-3 sm:gap-4 pb-10">
       {MYSTERY_TRACKS.map((n) => (
