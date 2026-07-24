@@ -8,7 +8,6 @@ import Timeline from "./components/landing/timeline";
 import AboutACM from "./components/landing/about-acm";
 import Statistics from "./components/landing/statistics";
 import Footer from "./components/landing/footer";
-import Speaker from "./components/landing/speaker";
 import TopBar from "./components/landing/top-bar";
 import ViewportPortal from "@/components/viewport-portal";
 import { useLayoutEffect, useEffect, useState, useCallback } from "react";
@@ -200,9 +199,6 @@ export default function Page() {
             </div>
           </div>
 
-          <div id="speakers" className="min-h-screen flex items-center justify-between flex-col">
-            <Speaker />
-          </div>
           <div id="timeline" className="h-screen flex items-center justify-between flex-col">
             <Timeline />
           </div>
