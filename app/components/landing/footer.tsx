@@ -190,6 +190,15 @@ const Footer = () => {
                   CLI-RPG
                 </a>
                 <a
+                  href="https://conclave.acmvit.in"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-white text-xs sm:text-sm md:text-base font-light uppercase hover:text-yellow-50 transition-colors"
+                  style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
+                >
+                  CONCLAVE
+                </a>
+                <a
                   href="https://examcooker.in"
                   target="_blank"
                   rel="noopener noreferrer"
