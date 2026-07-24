@@ -145,35 +145,7 @@ const Footer = () => {
                   className="text-white text-xs sm:text-sm md:text-base font-light uppercase hover:text-yellow-50 transition-colors"
                   style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
                 >
-                  AI SOLUTIONS
-                </a>
-                <a
-                  href="#tracks"
-                  className="text-white text-xs sm:text-sm md:text-base font-light uppercase hover:text-yellow-50 transition-colors"
-                  style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
-                >
-                  ART ATTACK
-                </a>
-                <a
-                  href="#tracks"
-                  className="text-white text-xs sm:text-sm md:text-base font-light uppercase hover:text-yellow-50 transition-colors"
-                  style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
-                >
-                  DIGITAL DAWN
-                </a>
-                <a
-                  href="#tracks"
-                  className="text-white text-xs sm:text-sm md:text-base font-light uppercase hover:text-yellow-50 transition-colors"
-                  style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
-                >
-                  I CAN DO IT BETTER
-                </a>
-                <a
-                  href="#tracks"
-                  className="text-white text-xs sm:text-sm md:text-base font-light uppercase hover:text-yellow-50 transition-colors"
-                  style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
-                >
-                  GAME OVER
+                  TBD
                 </a>
               </div>
             </div>
