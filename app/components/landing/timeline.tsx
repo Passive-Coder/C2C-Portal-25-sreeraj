@@ -34,7 +34,7 @@ const days: DaySchedule[] = [
   {
     id: "D3",
     label: "Day 3",
-    date: "12th September 2025",
+    date: "6th September 2026",
     entries: [
       { time: "12:00 AM", text: "Push to dev (Review 3 - eliminations)" },
       { time: "10:00 AM", text: "Push to main (Final Pitches)" },
