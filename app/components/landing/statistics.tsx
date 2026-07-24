@@ -19,7 +19,7 @@ const Statistics = () => {
           <div className="w-full flex justify-center items-center">
             {/* Mobile Stats Image */}
             <Image
-              src="/landing/mobilestats.svg"
+              src="/landing/mobilestats_2000_participants.svg"
               alt="ACM Stats"
               width={800}
               height={1200}
