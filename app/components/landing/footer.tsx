@@ -237,7 +237,7 @@ const Footer = () => {
                 className="text-[#48ba86] text-xs sm:text-sm md:text-base font-light uppercase"
                 style={{ fontFamily: "PolySans Trial, Arial, sans-serif" }}
               >
-                SPONSORS
+                PREVIOUS SPONSORS
               </div>
               <div className="flex flex-col gap-1 sm:gap-1.5 md:gap-2">
                 <a
