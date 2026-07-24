@@ -11,20 +11,20 @@ const days: DaySchedule[] = [
   {
     id: "D1",
     label: "Day 1",
-    date: "10th September 2025",
+    date: "4th September 2026",
     entries: [
       { time: "01:30 PM", text: "Repo init - Reporting Time" },
       {
         time: "03:00 PM",
-        text: "Create Release: v0.1.0 (Inauguration and an insightful session by Dr. Meenakshi D'Souza, President, ACM India Council, Hackathon officially starts)",
+        text: "Create Release: v0.1.0 ",
       },
-      { time: "10:30 PM", text: "\"Deploy your Model\" - A session by RunPod" },
+      // { time: "10:30 PM", text: "\"Deploy your Model\" - A session by RunPod" },
     ],
   },
   {
     id: "D2",
     label: "Day 2",
-    date: "11th September 2025",
+    date: "5th September 2026",
     entries: [
       { time: "12:00 AM", text: "Run Workflow (Review 1 - no eliminations)" },
       { time: "09:00 AM", text: "Sync with origin (Reporting back at the venue)" },
