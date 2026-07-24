@@ -59,12 +59,12 @@ export default function TopBar({ onUpcomingEdition }: TopBarProps = {}) {
     // { href: "#speakers", label: "Speakers", hasDropdown: false },
     { href: "#sponsors", label: "Previous Sponsors", hasDropdown: false },
     { href: "#faqs", label: "FAQs", hasDropdown: false },
-    { href: "#__upcoming", label: "See upcoming Edition", hasDropdown: false },
+    { href: "#__upcoming", label: "Explore the Latest Edition", hasDropdown: false },
   ];
 
   return (
     <div className="c2c-topbar-shell">
-      <div className="c2c-topbar w-full border-b border-white/30">
+      <div className="c2c-topbar w-full border-b border-transparent sm:border-white/30">
         <span aria-hidden className="c2c-topbar__effect" />
         <span aria-hidden className="c2c-topbar__tint" />
         <span aria-hidden className="c2c-topbar__shine" />
