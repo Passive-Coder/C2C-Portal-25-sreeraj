@@ -153,12 +153,12 @@ const Timeline = () => {
 
   return (
     <GradientBG>
-      <div className="w-full min-h-screen relative overflow-hidden">
+      <div className="w-full min-h-0 lg:min-h-screen relative overflow-hidden">
         <div className="absolute inset-0 z-0">
           <DotGrid dotSize={2.5} gap={25} baseColor="#a3a3a3" />
         </div>
 
-        <div className="relative z-10 min-h-screen">
+        <div className="relative z-10 min-h-0 lg:min-h-screen">
           {/* Header */}
           <div className="pt-8 pb-4 md:pt-16 md:pb-8">
             <h1
@@ -365,7 +365,7 @@ const Timeline = () => {
           </div>
 
           {/* Bottom spacing */}
-          <div className="h-16"></div>
+          <div className="h-8 sm:h-12 lg:h-16"></div>
         </div>
       </div>
     </GradientBG>
